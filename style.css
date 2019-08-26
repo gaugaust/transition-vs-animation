@@ -1,0 +1,57 @@
+html{
+    background: #000;
+    height: 100%;
+}
+.bouton {
+    height:30px;
+    width: 200px;
+    margin: 50px 0 0 50px;
+}
+/*p{
+    border: 3px solid white;
+    background: black;
+    height:30px;
+    width: 200px;
+    padding:20px;
+    text-align:center;
+    color: white;
+    font-size: 20px;    
+}
+p:hover{
+    background-color: white;
+    color:black;
+}*/
+/*p{
+    border: 3px solid white;
+    background: black;
+    height:30px;
+    width: 200px;
+    padding:20px;
+    text-align:center;
+    color: white;
+    font-size: 20px; 
+    transition: 3s;
+ 
+}
+p:hover{
+    background-color: white;
+    color:black;
+    transform:scale(1.2)
+}*/
+p{
+    border: 3px solid white;
+    background: black;
+    height:30px;
+    width: 200px;
+    padding:20px;
+    text-align:center;
+    color: white;
+    font-size: 20px; 
+    transition:3s;
+
+}
+p:hover{
+    background-color: white;
+    color:black;
+    transform:translateX(200px);
+}
